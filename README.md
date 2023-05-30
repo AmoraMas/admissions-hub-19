@@ -27,11 +27,11 @@ This project is the culmination of months of hard work growing our skills within
 Working together as an Agile group, we faced many issues bringing this project to completion managing various libraries, testing requirements, and client needs. Together we've build an authentication system that allows each component to keep track of the current logged on user, a dashboard that allows for keeping track of every student that applies to the program, and an interview page to allow for testing fundamental knowledge before final approval into the program.
 
 - Components each member worked on.
-  - Cedrick - Database creation and seeding
-  - FortunJoseph - Modals on Dashboard Hub
+  - Cedrick - Database creation and seeding, Coding Challenge
+  - FortunJoseph - Dashboard Hub and Modals
   - Javaney - Authentication, Coding Challenge
   - Kari - Dashboard Hub
-  - Melvin - Express routes, Route testing
+  - Melvin - ERD, Express routes, Route testing, Dashboard Hub functions, Edit Profile, Coding Challenge side bar functions
   - Sydney - Coding Challenge side bar
 
 ## Technologies Used
@@ -76,7 +76,7 @@ Working together as an Agile group, we faced many issues bringing this project t
 - Point your browser to
   - [http://localhost:3000](http://localhost:3000)
 
-[Project Demonstration](https://admissions-hub-client.onrender.com/)
+[Project Demonstration](https://admissions-hub-19.vercel.app/)
 
 ## Usage
 
@@ -123,7 +123,7 @@ Working together as an Agile group, we faced many issues bringing this project t
 > MIT
 
 ---
-
+# Origional project Readme Below
 ---
 
 # Full-Stack React Example
